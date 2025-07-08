@@ -43,13 +43,6 @@ This project demonstrates how to build a high-performance computing (HPC) cluste
 
 ---
 
-## 📷 Here is the topology
-
-![image](https://github.com/user-attachments/assets/62ee996c-c8b2-48d9-89d7-17d3c6d9bd0a)
-
-
----
-
 ## 👨‍💻 Author
 
 **Jeffrey Nkadimeng**  
